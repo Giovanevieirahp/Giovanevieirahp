@@ -1,11 +1,10 @@
 # Olá, eu sou [Giovane](https://www.instagram.com/giovanevieirahp/)
-**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
-Preparando-se para o mercado de tecnologia**
----
+## **🖥️Estudante de Desenvolvimento de Sistemas**
+### Focado em Python, HTML e CSS
 ## Sobre mim
--  Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
--  Sempre interessado na **resolução de problemas**
--  Interesse especial em **Desenvolvimento de Jogos** e **Back-End**
+-  👨‍💻Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
+-  🧩Sempre interessado na **resolução de problemas**
+-  🕹️Interesse especial em **Desenvolvimento de Jogos** e **Back-End**
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
